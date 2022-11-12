@@ -3,4 +3,4 @@ Nesse projeto coloquei em prática conhecimentos adquiridos na matéria de progr
 
 -Para o projeto em questão foram levadas e em consideração práticas de responsividade, e utilizado CSS e JavaScript.
 
-Para acessar clique aqui -> https://lucasmaxsantos.github.io/Portfolio_PWEB/
+Para acessar clique aqui -> https://lucasmaxsantos.github.io/portfoliopweb/
