@@ -510,11 +510,11 @@ aside{
     .contato h2{
         text-align: center;
         margin-top: 30px;
-        font-size: 14px;
+        font-size: 13px;
         font-family: "fonteBatmanBg"; 
         font-weight: bold;
+        letter-spacing: 3px;
     }
-
 }
 
 
@@ -523,10 +523,9 @@ aside{
     .contato h2{
         text-align: center;
         margin-top: 30px;
-        font-size: 10px;
-        font-family: "arial"; 
+        font-size: 12px;
+        font-family: "fonteBatmanBg"; 
         font-weight: bold;
         letter-spacing: 3px;
     }
-
 }
