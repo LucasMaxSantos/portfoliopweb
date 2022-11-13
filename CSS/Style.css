@@ -20,9 +20,6 @@
 
 
 /*====================Inicio====================*/
-.aside audio{
-    justify-items: center;
-}
 
 .Section-1-bg{
     background-image: url(../Img/batman.jpg);
@@ -161,6 +158,29 @@ aside{
         margin-top: 15px;
     
     }
+}
+
+@media only screen and (max-width: 414px)  {
+
+    /*====================Inicio====================*/
+
+    .main-title h1{
+        font-size: 40px;
+        margin-top: 75%;
+        margin-right: 15%;
+        
+    }
+
+    .main-title h2{
+        font-size: 25px;
+        margin-right: 15%;
+    }
+
+    .icon-menu img{
+        margin-right: 40px;
+        margin-top: 15px;
+    
+    }
     
 }
 
@@ -245,6 +265,30 @@ aside{
     }
 }
 
+@media only screen and (max-width: 414px){
+
+    /*================Sobre-mim ================*/
+
+    .image img{
+        width: 300px;
+        height: auto;
+    }
+
+    .Sobre-mim p{
+        font-size: 12px;
+        width: 500px;
+        padding: 15px;
+        text-align: center;
+    }
+
+    .Sobre-mim h3{
+        color: #fef102;
+        text-align: center;
+        font-size: 12px;
+        font-family: "fonteBatmanBg";
+    }
+}
+
 /*================Skill================*/
 
 .Container{
@@ -314,8 +358,6 @@ aside{
     .C-card-2{
         margin-top: 35px;
     }
-
-
 
 }
 /*===============Certificados================*/
@@ -400,6 +442,27 @@ aside{
     }
 }
 
+@media only screen and (max-width: 412px){
+
+    .C-certificados h1{
+        text-align: center;
+        font-size: 50px;
+    }
+    
+    .img-certificados img{
+        width: 300px;
+        height: auto;
+    }
+
+    .img-2 img{
+        width: 300px;
+        height: auto;
+        margin-left: -28px;
+        margin-top: 50px;
+       
+    }
+}
+
 /*===============Rodapé================*/
 
 .imgRodape img{
@@ -441,6 +504,7 @@ aside{
 }
 
 
+
 @media only screen and (max-width: 414px){
 
     .contato h2{
@@ -450,5 +514,19 @@ aside{
         font-family: "fonteBatmanBg"; 
         font-weight: bold;
     }
+
 }
 
+
+@media only screen and (max-width: 412px){
+
+    .contato h2{
+        text-align: center;
+        margin-top: 30px;
+        font-size: 10px;
+        font-family: "fonteBatmanBg"; 
+        font-weight: bold;
+        
+    }
+
+}
